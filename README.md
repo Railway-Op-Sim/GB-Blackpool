@@ -18,8 +18,6 @@ Lines to Blackpool North and Blackpool South
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
 - [RealTimeTrains](https://www.realtimetrains.co.uk/)
 - [Traksy](https://traksy.uk/live)
 - [OpenRailwayMap](https://www.openrailwaymap.org/)
