@@ -1,0 +1,13 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Lines to Blackpool North and Blackpool South"
+display_name = 'Blackpool'
+doc_files = [ 'Blackpool.md' ]
+factual = true
+img_files = [ 'Blackpool.bmp' ]
+name = 'Blackpool'
+release_date = '2022-11-16'
+rly_file = 'Blackpool.rly'
+ssn_files = [ 'Blackpool Initial Session.ssn']
+ttb_files = [ 'Blackpool 26-10-22.ttb' ]
+version = '1.0.0'
